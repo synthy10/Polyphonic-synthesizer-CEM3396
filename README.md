@@ -9,4 +9,4 @@ This board takes care of the LFO (digital), the envelopes (digital) , the midi h
 
 ![Screenshot](https://github.com/synthy10/Polyphonic-synthesizer-CEM3396/blob/master/cem3396.bmp)
 
-This is the scematic of the voicecard.
+This is the schematic of the voicecard.
